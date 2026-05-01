@@ -2,7 +2,7 @@
 > Authentic Italian, crafted with soul.
 
 ## 🚀 Live Demo
-(building)
+https://vero-1777612524-36b92a.vercel.app
 
 ## ✨ Features
 - **Immersive Hero Section**: A cinematic, full-screen video experience that captures the artistry of pasta preparation with a high-conversion reservation CTA.
@@ -18,8 +18,8 @@
 
 ## 🏃 Quick Start
 ```bash
-git clone 
-cd 
+git clone https://github.com/techkeshav23/vero-1777612524-36b92a
+cd vero-1777612524-36b92a
 npm install
 npm run dev
 ```
